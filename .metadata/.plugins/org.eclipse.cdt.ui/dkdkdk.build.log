@@ -1,0 +1,12 @@
+
+**** Build of configuration Default for project dkdkdk ****
+
+D:\IDE_64\android-ndk-r9c\ndk-build.cmd 
+Android NDK: WARNING: APP_PLATFORM android-18 is larger than android:minSdkVersion 8 in ./AndroidManifest.xml    
+[armeabi] Compile++ thumb: cocos2dcpp_shared <= main.cpp
+In file included from jni/hellocpp/main.cpp:1:0:
+jni/../../Classes/AppDelegate.h:4:21: fatal error: cocos2d.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/cocos2dcpp_shared/hellocpp/main.o] Error 1
+
+**** Build Finished ****

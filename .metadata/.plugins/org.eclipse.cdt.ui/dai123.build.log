@@ -1,0 +1,12 @@
+
+**** Build of configuration Default for project dai123 ****
+
+D:\IDE_64\android-ndk-r9c\ndk-build.cmd 
+Android NDK: WARNING: APP_PLATFORM android-18 is larger than android:minSdkVersion 8 in ./AndroidManifest.xml    
+Android NDK: WARNING:E:\vs\cocos2d-x-2.2.6/cocos2dx/Android.mk:cocos2dx_static: LOCAL_LDLIBS is always ignored for static libraries    
+[armeabi] SharedLibrary  : libcocos2dcpp.so
+D:/IDE_64/android-ndk-r9c/toolchains/arm-linux-androideabi-4.6/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld.exe: ./obj/local/armeabi/objs/cocos2dcpp_shared/__/__/Classes/HelloWorldScene.o: in function HelloWorld::replaceSceneCallback(cocos2d::CCObject*):jni/../../Classes/HelloWorldScene.cpp:357: error: undefined reference to 'ChioceLayter::scene()'
+collect2: ld returned 1 exit status
+make.exe: *** [obj/local/armeabi/libcocos2dcpp.so] Error 1
+
+**** Build Finished ****

@@ -1,0 +1,11 @@
+
+**** Build of configuration Default for project HelloCpp ****
+
+bash E:/vs/cocos2d-x-2.2.6/projects/daikun/proj.android/build_native.sh 
+
+Cannot run program "bash": Launching failed
+Error: Program "bash" is not found in PATH
+
+PATH=[D:/jtm/jdk/bin/../jre/bin/client;D:/jtm/jdk/bin/../jre/bin;D:/jtm/jdk/bin/../jre/lib/i386;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;D:\jtm\jdk\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;E:\uml\common;C:\Python27;E:\android\Git\cmd;E:\sdk\platform-tools;E:\AndroidStudio\bin;F:\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;D:\xiazai\adt-bundle-windows-x86-20130917\eclipse;]
+
+**** Build Finished ****
